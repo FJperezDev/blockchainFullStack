@@ -1,5 +1,4 @@
-from flask import Flask, jsonify, request
-from uuid import uuid4
+from flask import Flask, jsonify
 from blockchain import Blockchain
 from flask_cors import CORS
 
