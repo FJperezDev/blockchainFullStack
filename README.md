@@ -70,4 +70,4 @@ source venv/bin/activate
 pip install Flask flask-cors
 
 # Run the Node/Server
-python api_blockchain.py
+python main.py
