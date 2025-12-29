@@ -9,7 +9,6 @@
 > A purely educational implementation of a Blockchain architecture from scratch, featuring a Python RESTful API backend and a React/TypeScript frontend with client-side mining capabilities.
 
 ![Dashboard Preview](screenshots/dashboard.png)
-*(Replace this image with a real screenshot of your app)*
 
 ---
 
