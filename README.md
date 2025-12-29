@@ -70,3 +70,17 @@ pip install Flask flask-cors
 
 # Run the Node/Server
 python main.py
+
+```
+
+### 2. Frontend Setup (React)
+
+Navigate to pychain-web:
+
+```bash
+# Install npm dependencies
+npm install
+
+# Run the dev web service
+npm run dev
+```
